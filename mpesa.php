@@ -59,7 +59,7 @@ class Mpesa
 
         try {
             $Amount = $data['amount'];
-            $AccountReference = 'test_payment';
+            $AccountReference = 'KRAKA_MAXWELL';
             $CallBackURL = 'https://stk-maxwelll.up.railway.app/callback_url.php';
             $PhoneNumber = $PartyA = $data['phone-num'];
 
