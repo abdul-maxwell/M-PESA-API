@@ -44,8 +44,8 @@ class Mpesa
     public static function load() : void
     {
         self::$credentials = array(
-            'consumer_key' => 'nk16Y74eSbTaGQgc9WF8j6FigApqOMWr', // add your own
-            'consumer_secret' => '40fD1vRXCq90XFaU', // add your own
+            'consumer_key' => '5PlPThFg2TFbnULywCRJ2AJcCAZ5nhnxf7iulgKD2UKeXGQ0', // add your own
+            'consumer_secret' => 'bAdVHfuBWyKmLSb0DVdzrwWsVksnYKcxKe0Xr7kd3cQLHIg75aQZLcAEdhI1GlmT', // add your own
         );
     }
 
@@ -54,7 +54,7 @@ class Mpesa
 
         $Amount = $args[0]['amount'];
         $AccountReference = 'deeznuts';
-        $CallBackURL = 'https://02a5-154-159-237-114.in.ngrok.io/callback_url.php';
+        $CallBackURL = 'https://stk-maxwelll.up.railway.app/callback_url.php';
         $PhoneNumber = $PartyA = $args[0]['phone-num'];
 
         $passkey = "bfb279f9aa9bdbcf158e97dd71a467cd2e0c893059b10f78e6b72ada1ed2c919";
