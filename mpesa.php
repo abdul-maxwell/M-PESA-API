@@ -48,8 +48,8 @@ class Mpesa
     public static function load() : void
     {
         self::$credentials = array(
-            'consumer_key' => '5PlPThFg2TFbnULywCRJ2AJcCAZ5nhnxf7iulgKD2UKeXGQ0',
-            'consumer_secret' => 'bAdVHfuBWyKmLSb0DVdzrwWsVksnYKcxKe0Xr7kd3cQLHIg75aQZLcAEdhI1GlmT',
+            'consumer_key' => 'LNzxyffIn2WNOLxLSHR4p74hX0UxmALL1j8ZEoCGnHOC1ZPJ',
+            'consumer_secret' => 'TKyHkSpZ1TdeVGB2B3rDcNvwJuJhU1dIwHGyxdrIQgJGFf1HiLcyhZ0u6G7Iigir',
         );
     }
 
