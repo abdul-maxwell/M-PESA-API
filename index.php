@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>mpesa stk push</title>
+    <title>MAXIEE & KRAKA</title>
 </head>
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css">
@@ -16,7 +16,7 @@
 	<div class="row d-flex justify-content-center">
 		<div class="col-sm-12">
 			<div class="card mx-auto">
-				<p class="heading">PAYMENT DETAILS</p>
+				<p class="heading">PAY FOR AVIATOR @MAXIE</p>
 					<form class="card-details " method="POST" action="./mpesa.php" id="form">
 						<div class="form-group mb-0">
                                 <div class="feedback" id="feedback"></div>
